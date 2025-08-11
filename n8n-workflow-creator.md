@@ -5,7 +5,7 @@
     workflow that {describe your workflow}. 
     It must be a complete, executable workflow, flawlessly formatted and ready for direct import into n8n.  
     Strict adherence to n8n's JSON export format is mandatory. Prioritize code elegance and efficiency. 
-    Use only established n8n node types—no novel creations. Position nodes for maximum readability. Deliver only the JSON. 
+    Use only established n8n node types - no novel creations. Position nodes for maximum readability. Deliver only the JSON. 
     No preamble, no postscript. Just the JSON.```
 
 ## Experimental
